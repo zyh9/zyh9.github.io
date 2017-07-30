@@ -145,13 +145,13 @@ nav a span{
 	color: #535353;
 }
 .sort1 .item2{
-	background: url(../images/uehtml_13.png) no-repeat 14px 14px;
+	background: url(../img/uehtml_13.png) no-repeat 14px 14px;
 }
 .sort1 .item3{
-	background: url(../images/uehtml_10.png) no-repeat 24px 14px;
+	background: url(../img/uehtml_10.png) no-repeat 24px 14px;
 }
 .sort1 .item4{
-	background: url(../images/uehtml_19.png) no-repeat 18px 14px;
+	background: url(../img/uehtml_19.png) no-repeat 18px 14px;
 }
 .sort_right{
 	float: left;
@@ -162,7 +162,7 @@ nav a span{
 	width: 15px;
 	height: 18px;
 	display: inline-block;
-	background: url(../images/uehtml_16.png) no-repeat left top;
+	background: url(../img/uehtml_16.png) no-repeat left top;
 	margin-right: 10px;
 	margin-top: 16px;
 }
@@ -243,15 +243,15 @@ nav a span{
 	line-height: 20px;
 }
 .con1 .con1_img1{
-	background: url(../images/content_1_82.png) no-repeat left 2px;
+	background: url(../img/content_1_82.png) no-repeat left 2px;
 	padding-left: 30px;
 }
 .con1 .con1_img2{
-	background: url(../images/content_1_79.png) no-repeat left 2px;
+	background: url(../img/content_1_79.png) no-repeat left 2px;
 	padding-left: 30px;
 }
 .con1 .con1_img3{
-	background: url(../images/content_1_76.png) no-repeat left 2px;
+	background: url(../img/content_1_76.png) no-repeat left 2px;
 	padding-left: 30px;
 }
 .con1 .con1_bot{
